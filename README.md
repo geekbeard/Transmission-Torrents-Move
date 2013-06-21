@@ -25,6 +25,6 @@ Setting a cronjob(root):
 `$ sudo crontab -e` - open cron jobs for root user.
 add line `*/5 * * * * /path/to/mt2.sh` - change `/path/to/` to the path where you have mt2.sh. also you can change `*/5` to indicate another interval in minutes. change 5 to 10 minutes or higher (or less) to run this script every N minutes.
 
-Not it's done! Enjoy)
+Now it's done! Enjoy)
 
 p.s. It is very easy to add e-mail notifications to this script. 
